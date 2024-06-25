@@ -21,9 +21,9 @@ Using transactional data, the case study addresses the following points:
 
 ## Repository Structure
 
-- **RFM_ANALYSIS.ipynb**: Contains the code for data manipulation and RFM calculation.
+- **RMF (Recency Frequency Monetary Value).ipynb**: Contains the code for data manipulation and RFM calculation.
 - **README.md**: Includes information about the case study.
-- **Transactions_Data.xlsx**: Raw data.
+- **online_retail_II.xlsx**: Raw data.
 
 ## 📌 Implementation Details
 
